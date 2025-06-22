@@ -8,7 +8,7 @@
 
 **An Interactive Web-Based Simulator for Learning CPU Scheduling Algorithms**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Simulator-brightgreen?style=for-the-badge&logo=play)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Simulator-brightgreen?style=for-the-badge&logo=play)](https://sambhav1501.github.io/cpu-scheduler-simulator/)
 [![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-blue?style=for-the-badge&logo=book)](docs.html)
 [![About](https://img.shields.io/badge/About-Our%20Team-purple?style=for-the-badge&logo=users)](about.html)
 
@@ -68,6 +68,24 @@ Our simulator covers all major CPU scheduling algorithms with both preemptive an
    - Read the documentation at `docs.html`
    - Try the simulator at `backend/ganttcharts.html`
    - Experiment with different algorithms and parameters
+
+---
+
+## 🌐 Live Demo
+
+**🎯 Try the simulator right now!**
+
+Visit our live demo to experience the CPU Scheduler Simulator in action:
+**[https://sambhav1501.github.io/cpu-scheduler-simulator/](https://sambhav1501.github.io/cpu-scheduler-simulator/)**
+
+### What you can do in the live demo:
+- **Interactive Simulation**: Test all 6 CPU scheduling algorithms
+- **Real-time Visualization**: Watch Gantt charts update as you change parameters
+- **Performance Analysis**: Compare different algorithms side by side
+- **Educational Content**: Access comprehensive documentation and explanations
+- **Mobile Friendly**: Works perfectly on all devices
+
+*No installation required - everything runs in your browser!*
 
 ---
 
@@ -275,10 +293,11 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📞 Contact & Support
 
-- **Website**: [OS Virtual Lab](index.html)
-- **Documentation**: [Read Docs](docs.html)
-- **Simulator**: [Try Now](backend/ganttcharts.html)
-- **About**: [Our Team](about.html)
+- **🌐 Live Demo**: [CPU Scheduler Simulator](https://sambhav1501.github.io/cpu-scheduler-simulator/)
+- **📚 Documentation**: [Read Docs](docs.html)
+- **🎮 Simulator**: [Try Now](backend/ganttcharts.html)
+- **👥 About**: [Our Team](about.html)
+- **🐙 GitHub**: [Repository](https://github.com/Sambhav1501/cpu-scheduler-simulator)
 
 ---
 
@@ -286,9 +305,9 @@ We welcome contributions from the community! Here's how you can help:
 
 **Made with ❤️ by Team CE**
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/cpu-scheduler-simulator?style=social)](https://github.com/yourusername/cpu-scheduler-simulator)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/cpu-scheduler-simulator?style=social)](https://github.com/yourusername/cpu-scheduler-simulator)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/cpu-scheduler-simulator)](https://github.com/yourusername/cpu-scheduler-simulator/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Sambhav1501/cpu-scheduler-simulator?style=social)](https://github.com/Sambhav1501/cpu-scheduler-simulator)
+[![GitHub Forks](https://img.shields.io/github/forks/Sambhav1501/cpu-scheduler-simulator?style=social)](https://github.com/Sambhav1501/cpu-scheduler-simulator)
+[![GitHub Issues](https://img.shields.io/github/issues/Sambhav1501/cpu-scheduler-simulator)](https://github.com/Sambhav1501/cpu-scheduler-simulator/issues)
 
 **⭐ Star this repository if you found it helpful!**
 
