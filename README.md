@@ -271,14 +271,57 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 👥 Team
 
+
+## <span style="font-size:1.5em">👥 About Our Team</span>
 **Team CE** - Computer Engineering Students
+We are <b>Team Code Explorers</b> — passionate about code quality, academic integrity, and building immersive web tools!
 
-- **Frontend Development**: Modern web technologies
-- **Algorithm Implementation**: Pure JavaScript
-- **UI/UX Design**: User-centered design principles
-- **Documentation**: Comprehensive educational content
+<br>
+
+<div align="center">
+
+<table width="80%">
+  <tr>
+    <th style="font-size:1.1em; min-width: 180px;">Role</th>
+    <th style="font-size:1.1em; min-width: 220px;">Name</th>
+    <th style="font-size:1.1em; min-width: 220px;">GitHub</th>
+  </tr>
+  <tr>
+    <td><span style="font-size:1.3em;">👑</span> <b>Team Leader</b></td>
+    <td><b><span style="font-size:1.1em;">Sambhav Jain</span></b></td>
+    <td>
+      <a href="https://github.com/Sambhav1501">
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge" alt="Sambhav Jain GitHub"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><span style="font-size:1.3em;">🧑‍💻</span> <b>Member 1</b></td>
+    <td><b><span style="font-size:1.1em;">Gautam Tripathi</span></b></td>
+    <td>
+      <a href="https://github.com/01-Gautam">
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge" alt="Gautam Tripathi GitHub"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><span style="font-size:1.3em;">🧑‍💻</span> <b>Member 2</b></td>
+    <td><b><span style="font-size:1.1em;">Mohd Adeeb Ansari</span></b></td>
+    <td>
+      <a href="https://github.com/adeebansari110">
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge" alt="Mohd Adeeb Ansari GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+---
+
+> **Connect with us on GitHub and check out our other projects!**
 
 ---
 
